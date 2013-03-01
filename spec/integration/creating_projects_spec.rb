@@ -8,5 +8,10 @@ feature 'Creating Projects' do
 		fill_in 'Description', :with => 'A text-editor for Linux on Gnome'
 		click_button 'Create Project'
 		page.should have_content('Project has been created.')
+
+		project = Project.find_by_name('Gedit')
+		page.current_url.should == project_url(project)
+		title = 'Gedit - Projects - Ticketee'
+		find('title').should have_content(title)
 	end
 end
