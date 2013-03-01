@@ -3,10 +3,12 @@ require 'spec_helper'
 feature 'Viewing tickets' do
 	before do
 		gedit = Factory(:project, :name => 'Gedit')
-		Factory(:ticket,
-						:project => gedit,
-						:title => 'Make it shiny!',
-						:description => 'Gradients! Starbursts! Oh my!')
+		user = Factory(:user)
+		ticket = Factory(:ticket,
+										 :project => gedit,
+										 :title => 'Make it shiny!',
+										 :description => 'Gradients! Starbursts! Oh my!')
+		ticket.update_attribute(:user, user)
 
 		internet_explorer = Factory(:project, :name => 'Internet Explorer')
 		Factory(:ticket,
