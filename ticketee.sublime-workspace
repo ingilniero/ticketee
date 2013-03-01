@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"with"
+			],
+			[
+				"add",
+				"add_one_to_messages"
+			],
+			[
+				"messa",
+				"messages_count"
+			],
+			[
+				"metho",
+				"method_name"
+			],
+			[
+				"N",
+				"NoMethodError"
+			],
+			[
+				"cout",
+				"counts"
+			],
+			[
+				"par",
+				"partial_total"
+			],
+			[
+				"ret",
+				"return_value"
+			],
+			[
+				"mus",
+				"must_be_kind_of"
+			],
+			[
+				"fees",
+				"fees_html"
+			],
+			[
+				"fes",
+				"fees_html"
+			],
+			[
+				"Sh",
+				"ShippingFee"
+			],
+			[
+				"Esta",
+				"EstafetaShippingProvider"
+			],
+			[
+				"Shipp",
+				"ShippingProvider"
+			],
+			[
+				"Shipping",
+				"ShippingFee"
+			],
+			[
+				"set_",
+				"set_initial_bet"
+			],
+			[
+				"initi",
+				"initial_bet"
+			],
+			[
+				"ran",
+				"random"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 875,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"SET RUY",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/views/layouts/application.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/assets/stylesheets/application.css",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/config/application.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/Gemfile",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/config/routes.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/spec/integration/creating_projects_spec.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/views/projects/index.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/views/projects/new.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/controllers/projects_controller.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/models/project.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/db/schema.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/db/migrate/20130228231313_create_projects.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/bacon/lib/bacon.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/bacon/spec/bancon_spec.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/config/routes.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/views/purchases/index.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/views/purchases/edit.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/controllers/purchases_controller.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/example/bacon_test.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/views/purchases/show.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/models/purchase.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/views/purchases/_form.html.erb",
+		"/home/gil/.config/sublime-text-2/Packages/Ruby/Ruby.sublime-build",
+		"/home/gil/Documentos/Crowd/rails4-action/example/example_test.rb",
+		"/home/gil/.config/sublime-text-2/Packages/RSpec/RSpec.sublime-build",
+		"/home/gil/.config/sublime-text-2/Packages/RSpec/OpenRSpecFile.py",
+		"/home/gil/.config/sublime-text-2/Packages/RSpec/Default (OSX).sublime-keymap",
+		"/home/gil/Documentos/Crowd/rails4-action/bacon/rspec/bacon_spec.rb",
+		"/home/gil/.config/sublime-text-2/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/gil/.config/sublime-text-2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/app/views/purchases/new.html.erb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/db/schema.rb",
+		"/home/gil/Documentos/Crowd/rails4-action/things_i_bought/db/migrate/20130227232102_create_purchases.rb",
+		"/home/gil/.bashrc",
+		"/home/gil/.dircolors",
+		"/home/gil/Documentos/ingles/script-yoga-presentation.txt",
+		"/home/gil/Documentos/Crowd/koans/GREED_RULES.txt",
+		"/home/gil/Documentos/Crowd/koans/about_extra_credit.rb",
+		"/home/gil/Documentos/Crowd/store/gil/Gemfile",
+		"/home/gil/Documentos/Crowd/koans/path_to_enlightenment.rb",
+		"/etc/postgresql/9.1/main/postgresql.conf",
+		"/home/gil/Documentos/Crowd/koans/select.rb",
+		"/home/gil/Descargas/Californication.S06E04.Hell Bent for Leather.HDTV.x264-LOL.[VTV]/Californication.S06E04.Hell Bent for Leather.HDTV.x264-LOL.[VTV].txt",
+		"/home/gil/Documentos/Crowd/koans/code_mash.rb",
+		"/home/gil/Documentos/Crowd/koans/array_test.rb",
+		"/home/gil/Documentos/Crowd/koans/about_methods.rb",
+		"/home/gil/Documentos/Crowd/koans/about_java_interop.rb",
+		"/home/gil/Documentos/Crowd/koans/about_to_str.rb",
+		"/home/gil/Documentos/Crowd/koans/about_message_passing.rb",
+		"/home/gil/Documentos/Crowd/koans/about_proxy_object_project.rb",
+		"/home/gil/Documentos/Crowd/koans/about_class_methods.rb",
+		"/home/gil/Documentos/Crowd/koans/about_scope.rb",
+		"/home/gil/Documentos/Crowd/koans/about_modules.rb",
+		"/home/gil/Documentos/Crowd/koans/about_inheritance.rb",
+		"/home/gil/Documentos/Crowd/koans/about_dice_project.rb",
+		"/home/gil/Documentos/Crowd/koans/about_open_classes.rb",
+		"/home/gil/Documentos/Crowd/koans/about_classes.rb",
+		"/home/gil/Documentos/Crowd/koans/about_blocks.rb",
+		"/home/gil/Documentos/Crowd/koans/about_scoring_project.rb",
+		"/home/gil/Documentos/Crowd/koans/about_sandwich_code.rb",
+		"/home/gil/Documentos/Crowd/generators/generator.rb",
+		"/home/gil/Documentos/Crowd/Fetch/ShippingFee.rb",
+		"/home/gil/Documentos/Crowd/koans/example_file.txt",
+		"/home/gil/Documentos/Crowd/koans/ingles-2.txt",
+		"/home/gil/Documentos/Crowd/koans/about_iteration.rb",
+		"/home/gil/Documentos/Crowd/koans/about_triangle_project_2.rb",
+		"/home/gil/Documentos/Crowd/koans/about_exceptions.rb",
+		"/home/gil/Documentos/Crowd/koans/triangle.rb",
+		"/home/gil/Documentos/Crowd/koans/about_triangle_project.rb",
+		"/home/gil/Documentos/Crowd/koans/about_true_and_false.rb",
+		"/home/gil/Documentos/Crowd/koans/about_control_statements.rb",
+		"/home/gil/Documentos/Crowd/koans/about_constants.rb",
+		"/home/gil/Documentos/Crowd/koans/about_regular_expressions.rb",
+		"/home/gil/Documentos/Crowd/Fetch/net.rb",
+		"/home/gil/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/gil/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gil/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gil/.config/sublime-text-2/Packages/TrailingSpaces/Default.sublime-commands",
+		"/home/gil/.config/sublime-text-2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/gil/Documentos/Crowd/Fetch/raw_estafeta.html",
+		"/home/gil/Documentos/Crowd/koans/about_strings.rb",
+		"/home/gil/Documentos/Crowd/Fetch/regexp.rb",
+		"/home/gil/Documentos/Crowd/clas_meta.rb",
+		"/home/gil/Documentos/Crowd/herencia.rb",
+		"/home/gil/Documentos/Crowd/recorder_mario.rb",
+		"/home/gil/Documentos/Crowd/recorder.rb",
+		"/home/gil/Documentos/Crowd/adder.rb",
+		"/home/gil/Documentos/Crowd/koans/about_symbols.rb",
+		"/home/gil/Documentos/Crowd/koans/about_hashes.rb",
+		"/home/gil/Documentos/Crowd/koans/about_array_assignment.rb",
+		"/home/gil/Documentos/Crowd/koans/about_arrays.rb",
+		"/home/gil/Documentos/Crowd/koans/about_objects.rb",
+		"/home/gil/Documentos/Crowd/koans/about_nil.rb",
+		"/home/gil/Documentos/Crowd/koans/about_asserts.rb",
+		"/home/gil/Documentos/Crowd/dijkstra/dijkstra.rb",
+		"/usr/share/applications/sublime.desktop",
+		"/usr/share/applications/eclipse.desktop",
+		"/etc/profile",
+		"/home/gil/Documentos/Crowd/generators/calc.rb",
+		"/home/gil/Documentos/untitled.rb",
+		"/home/gil/.gitconfig",
+		"/home/gil/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/gil/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/etc/sysctl.conf",
+		"/usr/share/applications/defaults.list"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bacon",
+			"32",
+			"1000",
+			"counts",
+			"json",
+			"__",
+			"49000",
+			"package",
+			"send",
+			"49000",
+			"ctrl+alt+r",
+			"res.body",
+			"/",
+			"22510",
+			"333",
+			"22510",
+			"22500",
+			"223",
+			"22510",
+			"22500",
+			"22510",
+			":weight",
+			"@weight",
+			"fees",
+			"[",
+			" ",
+			"=",
+			"[",
+			",",
+			"=>",
+			"puts",
+			"res.body",
+			"\"",
+			"'",
+			"\"",
+			"#f6ecce",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			"origin",
+			"false",
+			"c.",
+			"c",
+			"c ",
+			"g,",
+			"g ",
+			"G",
+			"g",
+			"__",
+			"puts",
+			"run",
+			"modulo",
+			"swap",
+			"gedit.desktop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"mod",
+			"module",
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 134.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 307.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"db",
+				"db/schema.rb"
+			],
+			[
+				"control",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"model",
+				"app/models/project.rb"
+			],
+			[
+				"migr",
+				"db/migrate/20130228231313_create_projects.rb"
+			],
+			[
+				"migrat",
+				"db/migrate/20130228231313_create_projects.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"proje",
+				"app/controllers/projects_controller.rb"
+			],
+			[
+				"conro",
+				"config/routes.rb"
+			],
+			[
+				"app",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"aplica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"index",
+				"app/views/purchases/index.html.erb"
+			],
+			[
+				"edit",
+				"app/views/purchases/edit.html.erb"
+			],
+			[
+				"_f",
+				"app/views/purchases/_form.html.erb"
+			],
+			[
+				"new",
+				"app/views/purchases/new.html.erb"
+			],
+			[
+				"rotes",
+				"config/routes.rb"
+			],
+			[
+				"controller",
+				"app/controllers/purchases_controller.rb"
+			],
+			[
+				"show",
+				"app/views/purchases/show.html.erb"
+			],
+			[
+				"_fomr",
+				"app/views/purchases/_form.html.erb"
+			],
+			[
+				"controll",
+				"app/controllers/purchases_controller.rb"
+			],
+			[
+				"db/",
+				"db/schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
