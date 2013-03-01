@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"click",
+				"click_button"
+			],
+			[
+				"click_",
+				"click_link"
+			],
+			[
 				"h",
 				"h2	Tag"
 			],
@@ -103,7 +111,7 @@
 			"file": "app/views/projects/show.html.erb",
 			"settings":
 			{
-				"buffer_size": 75,
+				"buffer_size": 69,
 				"line_ending": "Unix"
 			}
 		},
@@ -127,7 +135,7 @@
 			"file": "app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 359,
+				"buffer_size": 433,
 				"line_ending": "Unix"
 			}
 		},
@@ -135,12 +143,20 @@
 			"file": "spec/integration/creating_projects_spec.rb",
 			"settings":
 			{
-				"buffer_size": 505,
+				"buffer_size": 727,
 				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "app/helpers/application_helper.rb",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/project.rb",
 			"settings":
 			{
 				"buffer_size": 0,
@@ -196,6 +212,7 @@
 	},
 	"file_history":
 	[
+		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/models/project.rb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/spec/integration/creating_projects_spec.rb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/config/database.yml",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/config/routes.rb",
@@ -206,7 +223,6 @@
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/views/projects/index.html.erb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/views/projects/new.html.erb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/controllers/projects_controller.rb",
-		"/home/gil/Documentos/Crowd/rails4-action/ticketee/app/models/project.rb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/db/schema.rb",
 		"/home/gil/Documentos/Crowd/rails4-action/ticketee/db/migrate/20130228231313_create_projects.rb",
 		"/home/gil/Documentos/Crowd/rails4-action/bacon/lib/bacon.rb",
@@ -398,7 +414,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 8,
 			"sheets":
 			[
 				{
@@ -637,15 +653,15 @@
 					"file": "app/views/projects/show.html.erb",
 					"settings":
 					{
-						"buffer_size": 75,
+						"buffer_size": 69,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								45,
-								45
+								34,
+								34
 							]
 						],
 						"settings":
@@ -979,15 +995,15 @@
 					"file": "app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 359,
+						"buffer_size": 433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								359,
-								359
+								80,
+								80
 							]
 						],
 						"settings":
@@ -1093,15 +1109,15 @@
 					"file": "spec/integration/creating_projects_spec.rb",
 					"settings":
 					{
-						"buffer_size": 505,
+						"buffer_size": 727,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								496,
-								496
+								576,
+								576
 							]
 						],
 						"settings":
@@ -1194,7 +1210,8 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1205,6 +1222,120 @@
 				{
 					"buffer": 7,
 					"file": "app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/models/project.rb",
 					"settings":
 					{
 						"buffer_size": 0,
@@ -1277,6 +1408,10 @@
 		"selected_items":
 		[
 			[
+				"model",
+				"app/models/project.rb"
+			],
+			[
 				"helper",
 				"app/helpers/application_helper.rb"
 			],
@@ -1319,10 +1454,6 @@
 			[
 				"control",
 				"app/controllers/projects_controller.rb"
-			],
-			[
-				"model",
-				"app/models/project.rb"
 			],
 			[
 				"migr",

@@ -12,6 +12,8 @@ class ProjectsController < ApplicationController
 			flash[:notice] = "Project has been created."
 			redirect_to @project
 		else
+			flash[:alert] = 'Project has not been created.'
+			render :action => 'new'
 		end
 	end
 
