@@ -2,6 +2,7 @@ require 'spec_helper'
 
 feature 'Editing Projects' do
 	before do
+		sign_in_as!(Factory(:admin_user))
 		Factory(:project, :name => 'Gedit')
 		visit '/'
 		click_link 'Gedit'
