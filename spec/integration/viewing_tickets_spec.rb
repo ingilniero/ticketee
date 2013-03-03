@@ -3,7 +3,8 @@ require 'spec_helper'
 feature 'Viewing tickets' do
 	before do
 		gedit = Factory(:project, :name => 'Gedit')
-		user = Factory(:user)
+		user = Factory(:confirmed_user)
+		define_permission!(user, 'view', gedit)
 		ticket = Factory(:ticket,
 										 :project => gedit,
 										 :title => 'Make it shiny!',
@@ -11,10 +12,12 @@ feature 'Viewing tickets' do
 		ticket.update_attribute(:user, user)
 
 		internet_explorer = Factory(:project, :name => 'Internet Explorer')
+		define_permission!(user, 'view', internet_explorer)
 		Factory(:ticket,
 						:project => internet_explorer,
 						:title => 'Standards compliance',
 						:description => "Isn't a joke.")
+		sign_in_as!(user)
 		visit '/'
 	end
 
