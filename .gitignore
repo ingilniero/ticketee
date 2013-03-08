@@ -15,3 +15,5 @@
 /tmp
 
 *.sublime-*
+/public/system
+
