@@ -4,6 +4,7 @@ class Ticket < ActiveRecord::Base
 	has_many :assets
   belongs_to :project
   belongs_to :user
+  belongs_to :state
 
   validates :title, :description, :presence => true
   validates :description, :length => { :minimum => 10}
