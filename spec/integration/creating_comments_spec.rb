@@ -37,8 +37,14 @@ feature 'Creating comments' do
 		select 'Open', from: 'State'
 		click_button 'Create Comment'
 		page.should have_content('Comment has been created.')
+		
 		within('#ticket .state') do
 			page.should have_content('Open')
 		end
+
+		within('#comments') do
+			page.should have_content('State: Open')
+		end
+
 	end
 end
